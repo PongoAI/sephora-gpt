@@ -13,25 +13,25 @@ const ID_TO_PRODUCT_INFO = {
   'P454380': {
     'url': 'https://www.sephora.com/product/supergoop-unseen-sunscreen-spf-40-P454380',
     'name': 'Unseen Sunscreen Invisible Broad Spectrum SPF 40',
-    'img': 'https://www.sephora.com/productimages/sku/s2315935-main-zoom.jpg',
+    'img': '/subscreen.webp',
     'id': 'P454380'
   },
   'P468206': {
     'url': 'https://www.sephora.com/product/saie-glowy-super-gel-lightweight-dewy-highlighter-P468206',
     'name': 'Glowy Super Gel Lightweight Dewy Multipurpose Illuminator',
-    'img': 'https://www.sephora.com/productimages/sku/s2414027-main-zoom.jpg',
+    'img': '/illuminator.webp',
     'id': 'P468206'
   },
   'P88779809': {
     'url': 'https://www.sephora.com/product/pro-filt-r-instant-retouch-concealer-P88779809',
     'name': 'Pro Filtr Instant Retouch Longwear Liquid Concealer',
-    'img': 'https://www.sephora.com/productimages/sku/s2173367-main-zoom.jpg',
+    'img': '/concealer.webp',
     'id': 'P88779809'
   },
   'P411540': {
     'url': 'https://www.sephora.com/product/cicapair-tiger-grass-color-correcting-treatment-spf-30-P411540',
     'name': 'Cicapair™ Tiger Grass Color Correcting Treatment SPF 30',
-    'img': 'https://www.sephora.com/productimages/sku/s1855709-main-zoom.jpg',
+    'img': '/color-correction.webp',
     'id': 'P411540'
   } 
 }
