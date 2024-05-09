@@ -13,7 +13,7 @@ const ID_TO_PRODUCT_INFO = {
   'P454380': {
     'url': 'https://www.sephora.com/product/supergoop-unseen-sunscreen-spf-40-P454380',
     'name': 'Unseen Sunscreen Invisible Broad Spectrum SPF 40',
-    'img': '/subscreen.webp',
+    'img': '/sunscreen.webp',
     'id': 'P454380'
   },
   'P468206': {
