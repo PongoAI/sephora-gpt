@@ -132,30 +132,30 @@ const checkSocketsReady = (inputSocket) => {
         <div className={'text-center cursor-pointer rounded-md w-fit h-fit p-2 ' + (productID === 'P411540' ? 'border-2 border-indigo-500 text-indigo-600 shadow-indigo-500 shadow' : '')} onClick={() => {setProductID('P411540')}}>
           
           <img 
-        className='max-w-36 mx-auto '
-        src={'https://www.sephora.com/productimages/sku/s1855709-main-zoom.jpg'} 
-        alt="Product" />
-        Liquid Concealer...</div>
+        className='w-36 mx-auto '
+        src={'color-correction.webp'} 
+        alt="" />
+        Color correcting treatment...</div>
         
         <div className={'text-center cursor-pointer rounded-md w-fit h-fit p-2 ' + (productID === 'P88779809' ? 'border-2 border-indigo-500 text-indigo-600 shadow-indigo-500 shadow' : '')} onClick={() => {setProductID('P88779809')}}>
 
           <img 
-        className='max-w-36 mx-auto '
-        src={'https://www.sephora.com/productimages/sku/s2173367-main-zoom.jpg'} 
-        alt="Color correcting..." />Color correcting treatment...</div>
+        className='w-36 mx-auto '
+        src={'/concealer.webp'} 
+        alt="" />Liquid concealer...</div>
         
 
         <div className={'text-center cursor-pointer rounded-md w-fit h-fit p-2 ' + (productID === 'P468206' ? 'border-2 border-indigo-500 text-indigo-600 shadow-indigo-500 shadow' : '')} onClick={() => {setProductID('P468206')}}>
 
           <img 
-        className='max-w-36 mx-auto '
-        src={'https://www.sephora.com/productimages/sku/s2414027-main-zoom.jpg'} 
-        alt="Product" />Glowy Multipurpose Illuminator... </div>
+        className='w-36 mx-auto '
+        src={'/illuminator.webp'} 
+        alt="" />Glowy Multipurpose Illuminator... </div>
         
         <div className={'text-center cursor-pointer rounded-md w-fit h-fit p-2 ' + (productID === 'P454380' ? 'border-2 border-indigo-500 text-indigo-600 shadow-indigo-500 shadow' : '')} onClick={() => {setProductID('P454380')}}>
           <img 
-        className='max-w-36 mx-auto '
-        src={'https://www.sephora.com/productimages/sku/s2315935-main-zoom.jpg'} 
+        className='w-36 mx-auto '
+        src={'/sunscreen.webp'} 
         alt="Product" />Supergoop 40SPF Sunscreen</div>
       </div>
 
